@@ -1,6 +1,6 @@
 # Khan Academy - Fish Tank
-<strong>Javascript + Processing.js<br>
-Originally completed 6/1/2015</strong>
+<strong>Language: Javascript + Processing.js</strong></br>
+Originally completed 6/1/2015
 
 Functions, and loops, and colors, and randomness!
 
